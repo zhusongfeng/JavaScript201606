@@ -20,7 +20,7 @@
     var str='';
     while(str.length<4){
         var rnd=Math.round(Math.random()*61);
-        if(str.indexOf(rnd)===-1){
+        if(str.indexOf(strCode.charAt(rnd))===-1){
             str+=strCode.charAt(rnd);
         }
     }
