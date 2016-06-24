@@ -72,13 +72,3 @@ Array.prototype.myForEach(); forEach兼容写法；
 2）原型
 3）实例
 原型链__proto__
-
-
-
-
-
-
-
-
-
-
